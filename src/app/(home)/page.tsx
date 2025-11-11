@@ -9,7 +9,7 @@ export default function HomePage() {
         <Link href="/docs" className="font-medium underline">
           /docs
         </Link>{' '}
-        and see the documentation.
+        and see the documentation. This is dev.
       </p>
     </div>
   );
